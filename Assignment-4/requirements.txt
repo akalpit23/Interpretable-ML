@@ -9,3 +9,4 @@ pytest
 imodels
 shap 
 lime 
+rulefit
