@@ -8,5 +8,6 @@ setuptools
 pytest
 imodels
 shap 
+six
 lime 
 rulefit
