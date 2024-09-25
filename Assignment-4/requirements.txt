@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+seaborn
+skope-rules
+gosdt
+matplotlib
+setuptools
+pytest
+imodels
+shap 
+lime 
