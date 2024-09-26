@@ -11,3 +11,4 @@ shap
 six
 lime 
 rulefit
+jinja2
